@@ -1,0 +1,10 @@
+--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities -I .\board --library_interface=armcc 
+--library_type=standardlib 
+--diag_suppress=66,1296,186 
+ 
+
+-IC:\Users\Administrator\Desktop\KW41Z\led_output\led_output\RTE\_led_output_Debug
+-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include
+-IC:\Keil_v5\ARM\CMSIS\Include
+-D__UVISION_VERSION="522" -DMKW41Z512xxx4 -DDEBUG -DCPU_MKW41Z512VHT4 -DFRDM_KW41Z -DFREEDOM
+-o debug\lcd19264.o --omf_browse debug\lcd19264.crf --depend debug\lcd19264.d "board\lcd19264.c"

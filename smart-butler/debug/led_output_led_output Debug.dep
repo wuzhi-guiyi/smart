@@ -1,0 +1,252 @@
+Dependencies for Project 'led_output', Target 'led_output Debug': (DO NOT MODIFY !)
+F (board/board.c)(0x59775148)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities -I .\board --library_interface=armcc --library_type=standardlib --diag_suppress=66,1296,186  -IC:\Users\Administrator\Desktop\KW41Z\smart-butler\RTE\_led_output_Debug-ID:\MDK5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DMKW41Z512xxx4 -DDEBUG -DCPU_MKW41Z512VHT4 -DFRDM_KW41Z -DFREEDOM-o debug\board.o --omf_browse debug\board.crf --depend debug\board.d)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (drivers\fsl_common.h)(0x595B30AE)
+I (D:\MDK5\ARM\ARMCC\include\assert.h)(0x57F606B6)
+I (D:\MDK5\ARM\ARMCC\include\stdbool.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (CMSIS\fsl_device_registers.h)(0x595B30AE)
+I (CMSIS\MKW41Z4.h)(0x595B30AE)
+I (CMSIS\core_cm0plus.h)(0x595B309C)
+I (CMSIS\core_cmInstr.h)(0x595B309C)
+I (CMSIS\cmsis_armcc.h)(0x595B309C)
+I (CMSIS\core_cmFunc.h)(0x595B309C)
+I (CMSIS\system_MKW41Z4.h)(0x595B30AE)
+I (CMSIS\MKW41Z4_features.h)(0x595B30AE)
+I (drivers\fsl_clock.h)(0x595B30AE)
+I (board/clock_config.h)(0x595B30A2)
+I (board/board.h)(0x5972EB1E)
+I (drivers\fsl_gpio.h)(0x595B30AE)
+I (utilities\fsl_debug_console.h)(0x595B30AE)
+F (board/board.h)(0x5972EB1E)()
+F (board/clock_config.c)(0x595B30A2)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities -I .\board --library_interface=armcc --library_type=standardlib --diag_suppress=66,1296,186  -IC:\Users\Administrator\Desktop\KW41Z\smart-butler\RTE\_led_output_Debug-ID:\MDK5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DMKW41Z512xxx4 -DDEBUG -DCPU_MKW41Z512VHT4 -DFRDM_KW41Z -DFREEDOM-o debug\clock_config.o --omf_browse debug\clock_config.crf --depend debug\clock_config.d)
+I (drivers\fsl_common.h)(0x595B30AE)
+I (D:\MDK5\ARM\ARMCC\include\assert.h)(0x57F606B6)
+I (D:\MDK5\ARM\ARMCC\include\stdbool.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (CMSIS\fsl_device_registers.h)(0x595B30AE)
+I (CMSIS\MKW41Z4.h)(0x595B30AE)
+I (CMSIS\core_cm0plus.h)(0x595B309C)
+I (CMSIS\core_cmInstr.h)(0x595B309C)
+I (CMSIS\cmsis_armcc.h)(0x595B309C)
+I (CMSIS\core_cmFunc.h)(0x595B309C)
+I (CMSIS\system_MKW41Z4.h)(0x595B30AE)
+I (CMSIS\MKW41Z4_features.h)(0x595B30AE)
+I (drivers\fsl_clock.h)(0x595B30AE)
+I (drivers\fsl_smc.h)(0x595B30AE)
+I (board/clock_config.h)(0x595B30A2)
+F (board/clock_config.h)(0x595B30A2)()
+F (board/pin_mux.c)(0x59754B94)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities -I .\board --library_interface=armcc --library_type=standardlib --diag_suppress=66,1296,186  -IC:\Users\Administrator\Desktop\KW41Z\smart-butler\RTE\_led_output_Debug-ID:\MDK5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DMKW41Z512xxx4 -DDEBUG -DCPU_MKW41Z512VHT4 -DFRDM_KW41Z -DFREEDOM-o debug\pin_mux.o --omf_browse debug\pin_mux.crf --depend debug\pin_mux.d)
+I (drivers\fsl_common.h)(0x595B30AE)
+I (D:\MDK5\ARM\ARMCC\include\assert.h)(0x57F606B6)
+I (D:\MDK5\ARM\ARMCC\include\stdbool.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (CMSIS\fsl_device_registers.h)(0x595B30AE)
+I (CMSIS\MKW41Z4.h)(0x595B30AE)
+I (CMSIS\core_cm0plus.h)(0x595B309C)
+I (CMSIS\core_cmInstr.h)(0x595B309C)
+I (CMSIS\cmsis_armcc.h)(0x595B309C)
+I (CMSIS\core_cmFunc.h)(0x595B309C)
+I (CMSIS\system_MKW41Z4.h)(0x595B30AE)
+I (CMSIS\MKW41Z4_features.h)(0x595B30AE)
+I (drivers\fsl_clock.h)(0x595B30AE)
+I (drivers\fsl_port.h)(0x595B30AE)
+I (board/pin_mux.h)(0x5972AF34)
+F (board/pin_mux.h)(0x5972AF34)()
+F (CMSIS/arm_common_tables.h)(0x595B309C)()
+F (CMSIS/arm_const_structs.h)(0x595B309C)()
+F (CMSIS/arm_math.h)(0x595B309C)()
+F (CMSIS/cmsis_armcc.h)(0x595B309C)()
+F (CMSIS/cmsis_armcc_V6.h)(0x595B309C)()
+F (CMSIS/cmsis_gcc.h)(0x595B309C)()
+F (CMSIS/core_cm0plus.h)(0x595B309C)()
+F (CMSIS/core_cmFunc.h)(0x595B309C)()
+F (CMSIS/core_cmInstr.h)(0x595B309C)()
+F (CMSIS/core_cmSimd.h)(0x595B309C)()
+F (CMSIS/fsl_device_registers.h)(0x595B30AE)()
+F (CMSIS/MKW41Z4.h)(0x595B30AE)()
+F (CMSIS/MKW41Z4_features.h)(0x595B30AE)()
+F (CMSIS/system_MKW41Z4.c)(0x595B30AE)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities -I .\board --library_interface=armcc --library_type=standardlib --diag_suppress=66,1296,186  -IC:\Users\Administrator\Desktop\KW41Z\smart-butler\RTE\_led_output_Debug-ID:\MDK5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DMKW41Z512xxx4 -DDEBUG -DCPU_MKW41Z512VHT4 -DFRDM_KW41Z -DFREEDOM-o debug\system_mkw41z4.o --omf_browse debug\system_mkw41z4.crf --depend debug\system_mkw41z4.d)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (CMSIS/fsl_device_registers.h)(0x595B30AE)
+I (CMSIS/MKW41Z4.h)(0x595B30AE)
+I (CMSIS/core_cm0plus.h)(0x595B309C)
+I (CMSIS/core_cmInstr.h)(0x595B309C)
+I (CMSIS/cmsis_armcc.h)(0x595B309C)
+I (CMSIS/core_cmFunc.h)(0x595B309C)
+I (CMSIS/system_MKW41Z4.h)(0x595B30AE)
+I (CMSIS/MKW41Z4_features.h)(0x595B30AE)
+F (CMSIS/system_MKW41Z4.h)(0x595B30AE)()
+F (doc/readme.txt)(0x595B30A2)()
+F (drivers/fsl_clock.c)(0x595B30AE)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities -I .\board --library_interface=armcc --library_type=standardlib --diag_suppress=66,1296,186  -IC:\Users\Administrator\Desktop\KW41Z\smart-butler\RTE\_led_output_Debug-ID:\MDK5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DMKW41Z512xxx4 -DDEBUG -DCPU_MKW41Z512VHT4 -DFRDM_KW41Z -DFREEDOM-o debug\fsl_clock.o --omf_browse debug\fsl_clock.crf --depend debug\fsl_clock.d)
+I (drivers/fsl_clock.h)(0x595B30AE)
+I (drivers/fsl_common.h)(0x595B30AE)
+I (D:\MDK5\ARM\ARMCC\include\assert.h)(0x57F606B6)
+I (D:\MDK5\ARM\ARMCC\include\stdbool.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (CMSIS\fsl_device_registers.h)(0x595B30AE)
+I (CMSIS\MKW41Z4.h)(0x595B30AE)
+I (CMSIS\core_cm0plus.h)(0x595B309C)
+I (CMSIS\core_cmInstr.h)(0x595B309C)
+I (CMSIS\cmsis_armcc.h)(0x595B309C)
+I (CMSIS\core_cmFunc.h)(0x595B309C)
+I (CMSIS\system_MKW41Z4.h)(0x595B30AE)
+I (CMSIS\MKW41Z4_features.h)(0x595B30AE)
+F (drivers/fsl_clock.h)(0x595B30AE)()
+F (drivers/fsl_common.c)(0x595B30AE)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities -I .\board --library_interface=armcc --library_type=standardlib --diag_suppress=66,1296,186  -IC:\Users\Administrator\Desktop\KW41Z\smart-butler\RTE\_led_output_Debug-ID:\MDK5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DMKW41Z512xxx4 -DDEBUG -DCPU_MKW41Z512VHT4 -DFRDM_KW41Z -DFREEDOM-o debug\fsl_common.o --omf_browse debug\fsl_common.crf --depend debug\fsl_common.d)
+I (drivers/fsl_common.h)(0x595B30AE)
+I (D:\MDK5\ARM\ARMCC\include\assert.h)(0x57F606B6)
+I (D:\MDK5\ARM\ARMCC\include\stdbool.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (CMSIS\fsl_device_registers.h)(0x595B30AE)
+I (CMSIS\MKW41Z4.h)(0x595B30AE)
+I (CMSIS\core_cm0plus.h)(0x595B309C)
+I (CMSIS\core_cmInstr.h)(0x595B309C)
+I (CMSIS\cmsis_armcc.h)(0x595B309C)
+I (CMSIS\core_cmFunc.h)(0x595B309C)
+I (CMSIS\system_MKW41Z4.h)(0x595B30AE)
+I (CMSIS\MKW41Z4_features.h)(0x595B30AE)
+I (drivers/fsl_clock.h)(0x595B30AE)
+I (utilities\fsl_debug_console.h)(0x595B30AE)
+F (drivers/fsl_common.h)(0x595B30AE)()
+F (drivers/fsl_flash.c)(0x595B30AE)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities -I .\board --library_interface=armcc --library_type=standardlib --diag_suppress=66,1296,186  -IC:\Users\Administrator\Desktop\KW41Z\smart-butler\RTE\_led_output_Debug-ID:\MDK5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DMKW41Z512xxx4 -DDEBUG -DCPU_MKW41Z512VHT4 -DFRDM_KW41Z -DFREEDOM-o debug\fsl_flash.o --omf_browse debug\fsl_flash.crf --depend debug\fsl_flash.d)
+I (drivers/fsl_flash.h)(0x595B30AE)
+I (drivers/fsl_common.h)(0x595B30AE)
+I (D:\MDK5\ARM\ARMCC\include\assert.h)(0x57F606B6)
+I (D:\MDK5\ARM\ARMCC\include\stdbool.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (CMSIS\fsl_device_registers.h)(0x595B30AE)
+I (CMSIS\MKW41Z4.h)(0x595B30AE)
+I (CMSIS\core_cm0plus.h)(0x595B309C)
+I (CMSIS\core_cmInstr.h)(0x595B309C)
+I (CMSIS\cmsis_armcc.h)(0x595B309C)
+I (CMSIS\core_cmFunc.h)(0x595B309C)
+I (CMSIS\system_MKW41Z4.h)(0x595B30AE)
+I (CMSIS\MKW41Z4_features.h)(0x595B30AE)
+I (drivers/fsl_clock.h)(0x595B30AE)
+F (drivers/fsl_flash.h)(0x595B30AE)()
+F (drivers/fsl_gpio.c)(0x595B30AE)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities -I .\board --library_interface=armcc --library_type=standardlib --diag_suppress=66,1296,186  -IC:\Users\Administrator\Desktop\KW41Z\smart-butler\RTE\_led_output_Debug-ID:\MDK5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DMKW41Z512xxx4 -DDEBUG -DCPU_MKW41Z512VHT4 -DFRDM_KW41Z -DFREEDOM-o debug\fsl_gpio.o --omf_browse debug\fsl_gpio.crf --depend debug\fsl_gpio.d)
+I (drivers/fsl_gpio.h)(0x595B30AE)
+I (drivers/fsl_common.h)(0x595B30AE)
+I (D:\MDK5\ARM\ARMCC\include\assert.h)(0x57F606B6)
+I (D:\MDK5\ARM\ARMCC\include\stdbool.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (CMSIS\fsl_device_registers.h)(0x595B30AE)
+I (CMSIS\MKW41Z4.h)(0x595B30AE)
+I (CMSIS\core_cm0plus.h)(0x595B309C)
+I (CMSIS\core_cmInstr.h)(0x595B309C)
+I (CMSIS\cmsis_armcc.h)(0x595B309C)
+I (CMSIS\core_cmFunc.h)(0x595B309C)
+I (CMSIS\system_MKW41Z4.h)(0x595B30AE)
+I (CMSIS\MKW41Z4_features.h)(0x595B30AE)
+I (drivers/fsl_clock.h)(0x595B30AE)
+F (drivers/fsl_gpio.h)(0x595B30AE)()
+F (drivers/fsl_lptmr.c)(0x595B30AE)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities -I .\board --library_interface=armcc --library_type=standardlib --diag_suppress=66,1296,186  -IC:\Users\Administrator\Desktop\KW41Z\smart-butler\RTE\_led_output_Debug-ID:\MDK5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DMKW41Z512xxx4 -DDEBUG -DCPU_MKW41Z512VHT4 -DFRDM_KW41Z -DFREEDOM-o debug\fsl_lptmr.o --omf_browse debug\fsl_lptmr.crf --depend debug\fsl_lptmr.d)
+I (drivers/fsl_lptmr.h)(0x595B30AE)
+I (drivers/fsl_common.h)(0x595B30AE)
+I (D:\MDK5\ARM\ARMCC\include\assert.h)(0x57F606B6)
+I (D:\MDK5\ARM\ARMCC\include\stdbool.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (CMSIS\fsl_device_registers.h)(0x595B30AE)
+I (CMSIS\MKW41Z4.h)(0x595B30AE)
+I (CMSIS\core_cm0plus.h)(0x595B309C)
+I (CMSIS\core_cmInstr.h)(0x595B309C)
+I (CMSIS\cmsis_armcc.h)(0x595B309C)
+I (CMSIS\core_cmFunc.h)(0x595B309C)
+I (CMSIS\system_MKW41Z4.h)(0x595B30AE)
+I (CMSIS\MKW41Z4_features.h)(0x595B30AE)
+I (drivers/fsl_clock.h)(0x595B30AE)
+F (drivers/fsl_lptmr.h)(0x595B30AE)()
+F (drivers/fsl_lpuart.c)(0x5972EEC2)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities -I .\board --library_interface=armcc --library_type=standardlib --diag_suppress=66,1296,186  -IC:\Users\Administrator\Desktop\KW41Z\smart-butler\RTE\_led_output_Debug-ID:\MDK5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DMKW41Z512xxx4 -DDEBUG -DCPU_MKW41Z512VHT4 -DFRDM_KW41Z -DFREEDOM-o debug\fsl_lpuart.o --omf_browse debug\fsl_lpuart.crf --depend debug\fsl_lpuart.d)
+I (drivers/fsl_lpuart.h)(0x595B30AE)
+I (drivers/fsl_common.h)(0x595B30AE)
+I (D:\MDK5\ARM\ARMCC\include\assert.h)(0x57F606B6)
+I (D:\MDK5\ARM\ARMCC\include\stdbool.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (CMSIS\fsl_device_registers.h)(0x595B30AE)
+I (CMSIS\MKW41Z4.h)(0x595B30AE)
+I (CMSIS\core_cm0plus.h)(0x595B309C)
+I (CMSIS\core_cmInstr.h)(0x595B309C)
+I (CMSIS\cmsis_armcc.h)(0x595B309C)
+I (CMSIS\core_cmFunc.h)(0x595B309C)
+I (CMSIS\system_MKW41Z4.h)(0x595B30AE)
+I (CMSIS\MKW41Z4_features.h)(0x595B30AE)
+I (drivers/fsl_clock.h)(0x595B30AE)
+F (drivers/fsl_lpuart.h)(0x595B30AE)()
+F (drivers/fsl_port.h)(0x595B30AE)()
+F (drivers/fsl_smc.c)(0x595B30AE)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities -I .\board --library_interface=armcc --library_type=standardlib --diag_suppress=66,1296,186  -IC:\Users\Administrator\Desktop\KW41Z\smart-butler\RTE\_led_output_Debug-ID:\MDK5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DMKW41Z512xxx4 -DDEBUG -DCPU_MKW41Z512VHT4 -DFRDM_KW41Z -DFREEDOM-o debug\fsl_smc.o --omf_browse debug\fsl_smc.crf --depend debug\fsl_smc.d)
+I (drivers/fsl_smc.h)(0x595B30AE)
+I (drivers/fsl_common.h)(0x595B30AE)
+I (D:\MDK5\ARM\ARMCC\include\assert.h)(0x57F606B6)
+I (D:\MDK5\ARM\ARMCC\include\stdbool.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (CMSIS\fsl_device_registers.h)(0x595B30AE)
+I (CMSIS\MKW41Z4.h)(0x595B30AE)
+I (CMSIS\core_cm0plus.h)(0x595B309C)
+I (CMSIS\core_cmInstr.h)(0x595B309C)
+I (CMSIS\cmsis_armcc.h)(0x595B309C)
+I (CMSIS\core_cmFunc.h)(0x595B309C)
+I (CMSIS\system_MKW41Z4.h)(0x595B30AE)
+I (CMSIS\MKW41Z4_features.h)(0x595B30AE)
+I (drivers/fsl_clock.h)(0x595B30AE)
+I (drivers/fsl_flash.h)(0x595B30AE)
+F (drivers/fsl_smc.h)(0x595B30AE)()
+F (source/gpio_led_output.c)(0x597758B2)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities -I .\board --library_interface=armcc --library_type=standardlib --diag_suppress=66,1296,186  -IC:\Users\Administrator\Desktop\KW41Z\smart-butler\RTE\_led_output_Debug-ID:\MDK5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DMKW41Z512xxx4 -DDEBUG -DCPU_MKW41Z512VHT4 -DFRDM_KW41Z -DFREEDOM-o debug\gpio_led_output.o --omf_browse debug\gpio_led_output.crf --depend debug\gpio_led_output.d)
+I (board\board.h)(0x5972EB1E)
+I (board\clock_config.h)(0x595B30A2)
+I (drivers\fsl_gpio.h)(0x595B30AE)
+I (drivers\fsl_common.h)(0x595B30AE)
+I (D:\MDK5\ARM\ARMCC\include\assert.h)(0x57F606B6)
+I (D:\MDK5\ARM\ARMCC\include\stdbool.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (CMSIS\fsl_device_registers.h)(0x595B30AE)
+I (CMSIS\MKW41Z4.h)(0x595B30AE)
+I (CMSIS\core_cm0plus.h)(0x595B309C)
+I (CMSIS\core_cmInstr.h)(0x595B309C)
+I (CMSIS\cmsis_armcc.h)(0x595B309C)
+I (CMSIS\core_cmFunc.h)(0x595B309C)
+I (CMSIS\system_MKW41Z4.h)(0x595B30AE)
+I (CMSIS\MKW41Z4_features.h)(0x595B30AE)
+I (drivers\fsl_clock.h)(0x595B30AE)
+I (drivers\fsl_lpuart.h)(0x595B30AE)
+I (utilities\fsl_debug_console.h)(0x595B30AE)
+I (board\includes.h)(0x5972B9DE)
+I (D:\MDK5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\ctype.h)(0x57F606B6)
+I (D:\MDK5\ARM\ARMCC\include\stdlib.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\stdarg.h)(0x57F606B8)
+I (board\pin_mux.h)(0x5972AF34)
+I (drivers\fsl_port.h)(0x595B30AE)
+F (startup/startup_MKW41Z4.s)(0x595B30AE)(--cpu Cortex-M0+ -g --apcs=interwork --pd "__MICROLIB SETA 1" -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities-IC:\Users\Administrator\Desktop\KW41Z\smart-butler\RTE\_led_output_Debug-ID:\MDK5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 522" --pd "MKW41Z512xxx4 SETA 1" --pd "DEBUG SETA 1"--list .\output\startup_mkw41z4.lst -o debug\startup_mkw41z4.o --depend debug\startup_mkw41z4.d)
+F (utilities/fsl_debug_console.c)(0x595B30AE)(--c99 -c --cpu Cortex-M0+ -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I CMSIS -I board -I doc -I drivers -I source -I startup -I utilities -I .\board --library_interface=armcc --library_type=standardlib --diag_suppress=66,1296,186  -IC:\Users\Administrator\Desktop\KW41Z\smart-butler\RTE\_led_output_Debug-ID:\MDK5\ARM\PACK\Keil\Kinetis_KWxx_DFP\1.4.0\Device\Include-ID:\MDK5\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DMKW41Z512xxx4 -DDEBUG -DCPU_MKW41Z512VHT4 -DFRDM_KW41Z -DFREEDOM-o debug\fsl_debug_console.o --omf_browse debug\fsl_debug_console.crf --depend debug\fsl_debug_console.d)
+I (D:\MDK5\ARM\ARMCC\include\stdarg.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\stdlib.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\stdio.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\math.h)(0x57F606B6)
+I (utilities/fsl_debug_console.h)(0x595B30AE)
+I (drivers\fsl_common.h)(0x595B30AE)
+I (D:\MDK5\ARM\ARMCC\include\assert.h)(0x57F606B6)
+I (D:\MDK5\ARM\ARMCC\include\stdbool.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (D:\MDK5\ARM\ARMCC\include\string.h)(0x57F606B8)
+I (CMSIS\fsl_device_registers.h)(0x595B30AE)
+I (CMSIS\MKW41Z4.h)(0x595B30AE)
+I (CMSIS\core_cm0plus.h)(0x595B309C)
+I (CMSIS\core_cmInstr.h)(0x595B309C)
+I (CMSIS\cmsis_armcc.h)(0x595B309C)
+I (CMSIS\core_cmFunc.h)(0x595B309C)
+I (CMSIS\system_MKW41Z4.h)(0x595B30AE)
+I (CMSIS\MKW41Z4_features.h)(0x595B30AE)
+I (drivers\fsl_clock.h)(0x595B30AE)
+I (drivers\fsl_lpuart.h)(0x595B30AE)
+F (utilities/fsl_debug_console.h)(0x595B30AE)()
